@@ -5,6 +5,8 @@
     background: #F55A5A;
     color: #FFFFFF;
     text-align: center;
+    position: fixed;
+    top: 0;
 }
 
 .nav-content {
